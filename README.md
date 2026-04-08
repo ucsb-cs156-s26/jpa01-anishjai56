@@ -1,6 +1,6 @@
 # jpa01-anishjai56
 
-Deployed at: http://jpa01-anishjai56.dokku-11.cs.ucsb.edu/
+Deployed at: https://jpa01-anishjai56.dokku-11.cs.ucsb.edu/
 
 
 # About this repo
